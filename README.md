@@ -30,4 +30,7 @@ OpenGL headers and libraries are already present on the system. CMake will find 
 
 ## Build Instructions
 
+- mkdir build
+- cmake -S . -B build
+
 For build instructions, see the blog post [How to Build a CMake-Based Project](http://preshing.com/20170511/how-to-build-a-cmake-based-project).
